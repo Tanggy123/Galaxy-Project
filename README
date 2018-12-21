@@ -2,18 +2,14 @@ Version 1.0 7/10/2018.
 
 This directory contains a skeleton for CS61B Project 0.
 
-Although some of what's in here might seem mysterious to you, try to
-understand what it's all for.  Don't be afraid to ask us about it.
-
 GENERAL NOTE:  EVERYTHING in these files is changeable as you see fit, unless
-   otherwise noted.  Your task is to conform to the spec, period.  While
-   we have suggested, with these files, certain points about the design, we
-   don't require any of it.
+   otherwise noted. While we have suggested, with these files, certain points 
+   about the design, we don't require any of it.
 
 CONTENTS:
 ---------
 
-README                 This file.  You need not turn this in.
+README                 This file.
 
 Makefile               For those of you using the standard Unix tool chain
                        rather than Eclipse, this file provides for some
